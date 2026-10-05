@@ -5,9 +5,7 @@
     "admin_url": "https://t.me/",
     "banner_url": "https://graph.org/file/7b90a19b3faf2e493d945-eec2e3795d3758f549.jpg",
     "maintenance": false,
-    "banned_devices": [
-      "hacker_hwid_1"
-    ]
+    "banned_devices": []
   },
   "keys": {}
 }
