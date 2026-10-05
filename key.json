@@ -7,5 +7,14 @@
     "maintenance": false,
     "banned_devices": []
   },
-  "keys": {}
+  "keys": {
+    "HISHAM": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-10-05",
+      "hwid": [
+        "7b17903e004c6a7a"
+      ]
+    }
+  }
 }
